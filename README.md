@@ -1,0 +1,2 @@
+# frist
+setting up git
